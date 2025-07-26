@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 scikit-learn
 pydantic
 joblib
 matplotlib
+=======
+fastapi
+uvicorn
+scikit-learn
+pydantic
+joblib
+matplotlib
+>>>>>>> 01ff929781ed0690ab0512aa93c2ad32e3ccb4a7
